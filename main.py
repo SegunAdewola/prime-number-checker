@@ -1,5 +1,3 @@
-# Question 1: Prime Numbers
-
 # Defining a function to determine if a given number is prime
 def is_prime(number):
     """
